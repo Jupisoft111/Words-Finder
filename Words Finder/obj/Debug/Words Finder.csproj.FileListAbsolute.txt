@@ -1,0 +1,12 @@
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Words Finder\Words Finder\bin\Debug\Words Finder.exe.config
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Words Finder\Words Finder\bin\Debug\Words Finder.exe
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Words Finder\Words Finder\bin\Debug\Words Finder.pdb
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Words Finder\Words Finder\obj\Debug\Words_Finder.Properties.Resources.resources
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Words Finder\Words Finder\obj\Debug\Words_Finder.Ventana_Acerca.resources
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Words Finder\Words Finder\obj\Debug\Words_Finder.Ventana_Depurador_Excepciones.resources
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Words Finder\Words Finder\obj\Debug\Words_Finder.Ventana_Principal.resources
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Words Finder\Words Finder\obj\Debug\Words Finder.csproj.GenerateResource.cache
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Words Finder\Words Finder\obj\Debug\Words Finder.csproj.CoreCompileInputs.cache
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Words Finder\Words Finder\obj\Debug\Words Finder.exe
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Words Finder\Words Finder\obj\Debug\Words Finder.pdb
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Words Finder\Words Finder\obj\Debug\Words Finder.csprojAssemblyReference.cache
